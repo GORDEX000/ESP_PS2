@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "E:\\My codes\\Cheats\\ESP_PS2\\build\\intermediates\\Includes.obj",
+            "outputs": [
+                "E:\\My codes\\Cheats\\ESP_PS2\\build\\intermediates\\Includes.h_5594D97199D3EAD.ifc.dt.module.json",
+                "E:\\My codes\\Cheats\\ESP_PS2\\build\\intermediates\\Includes.h_5594D97199D3EAD.ifc.dt.d.json",
+                "E:\\My codes\\Cheats\\ESP_PS2\\build\\intermediates\\Includes.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "E:\\My codes\\Cheats\\ESP_PS2\\src\\Includes.h",
+                    "source-path": "e:\\my codes\\cheats\\esp_ps2\\src\\includes.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

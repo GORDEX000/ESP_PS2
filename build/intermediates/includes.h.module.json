@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "E:\\My codes\\Cheats\\ESP_PS2\\build\\intermediates\\Includes.h.obj",
+            "outputs": [
+                "E:\\My codes\\Cheats\\ESP_PS2\\build\\intermediates\\vc143.pdb",
+                "E:\\My codes\\Cheats\\ESP_PS2\\build\\intermediates\\",
+                "E:\\My codes\\Cheats\\ESP_PS2\\build\\intermediates\\Includes.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "src\\Includes.h",
+                    "source-path": "e:\\my codes\\cheats\\esp_ps2\\src\\includes.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
